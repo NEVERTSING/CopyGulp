@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: "Helvetica Neue", "Helvetica", "Lucida Grande", "Arial", "Hiragino Sans GB", "Microsoft Yahei", "WenQuanYi Micro Hei", "sans-serif";
+	font-size:16px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #e8e8e8;
+}
+
+.navbar-inverse{
+	border-color:transparent;
+}
+a:hover{
+	color:#FFF;
+}
+.navbar-inverse .navbar-brand {
+    color: #e8e8e8;
+	
+}
+.navbar-inverse{
+	background-color:#cf4646;
+}
+@media (min-width: 768px) {
+ .navbar-nav {
+    float: right!important;
+  }
+}
+
+.navbar-inverse .navbar-toggle{
+	border-color:#FFF;
+	background-color:transparent;
+}
+.navbar-inverse .navbar-collapse{
+    border-color:transparent;
+}
+
+.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus{
+	background-color:transparent;
+}
+.jumbotron{
+	background-color:#cf4646;
+	text-align:center;
+}
+.jumbotron img{
+	margin-top:70px;
+}
+.jumbotron p{
+	color:#fff;
+}
+#btn-getting{
+	border-color:#efbfbf;
+	margin-top:26px;
+	background-color:transparent;
+	border-radius:2px;
+	color:#efbfbf;
+	border:none;
+	box-shadow:inset 0 0 0 2px #efbfbf;
+	
+	
+}
+#btn-getting a:hover{
+	color:#fff;
+	border-color:#fff;
+}
+main p{
+	font-size:18px;
+}
+main{
+	margin-top:50px;
+}
+.footer{
+	margin-top:100px;
+	text-align:center;
+}
+/*中文文档*/
+.main{
+	margin-top:30px;
+}
+article{
+	line-height:1.8;
+	margin-top:30px;
+}
+article  a{
+	color:#cf4646;
+	font-size:16px;
+	text-decoration:underline;
+}
+article a:hover{
+	color:#A62C2C;
+}
+article ul li{
+	font-size:16px;
+}
+article ul{
+	
+    margin-top: 25px;
+}
+h2{
+	margin-bottom:25px;
+	margin-top:50px;
+}
+/*入门指南*/
+h4{
+	margin-bottom:25px;
+	margin-top:30px;
+}
+.background{
+	color:#fff;
+	display:block;
+	
+}
+article pre{
+	font-size:14px;
+	border:none;
+	border-radius:0;
+	background-color:#23241f;
+	
+}
+.keyword{
+	color:#f92672;
+}
+.orange{
+	color:#e6db74;
+}
+.blue{
+	color:#66d9ef;
+}
+.explain{
+	color: #75715e;
+};
+
+	
+	
+	
+	
